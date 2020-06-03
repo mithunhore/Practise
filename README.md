@@ -1,2 +1,2 @@
-# Practise
-This is just a practise
+# Practice
+This is just a practice
